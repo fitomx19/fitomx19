@@ -28,7 +28,7 @@ Audiophile by birth and music lover by conviction
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-[![Adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitomx19)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -49,7 +49,9 @@ Audiophile by birth and music lover by conviction
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+[![Adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitomx19)](https://github.com/anuraghazra/github-readme-stats)
 
+95K Minutes last rewind 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ns9cer9e0avehzvyzbewhl3w3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
