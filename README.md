@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hey! I'm Adolfo Huerta, and this is my profile.
+
+### ⚡ I'm currently a Data Science student, Web Developer and professional horchata water taster
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ns9cer9e0avehzvyzbewhl3w3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **fitomx19/fitomx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
