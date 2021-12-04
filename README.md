@@ -2,6 +2,13 @@
 
 ### ⚡ I'm currently a Data Science student, Web Developer and professional horchata water taster
 
+Within my profile you can find many projects that I have developed throughout my student days, including many projects in **Java, Node.js and React**. Although there is one that another project of another technology out there haha.
+
+For data science I handle **python and r**
+
+I like to program in the mornings, my productivity starts at 6 am and ends at 3 pm, instead of coffee I prefer hot chocolate uwu.
+
+Audiophile by birth and music lover by conviction
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ns9cer9e0avehzvyzbewhl3w3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
