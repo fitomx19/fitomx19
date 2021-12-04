@@ -10,6 +10,10 @@ I like to program in the mornings, my productivity starts at 6 am and ends at 3 
 
 Audiophile by birth and music lover by conviction
 
+[![Adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitomx19)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ns9cer9e0avehzvyzbewhl3w3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
