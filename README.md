@@ -42,8 +42,10 @@ Audiophile by birth and music lover by conviction
 
 [![Adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitomx19)](https://github.com/anuraghazra/github-readme-stats)
 
-95K Minutes last rewind 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ns9cer9e0avehzvyzbewhl3w3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fitomx19&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitomx19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fitomx19/fitomx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
