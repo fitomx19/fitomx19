@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12825166/michael-adolfo-huerta-ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12825166/michael-adolfo-huerta-ramirez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@clubdedesarrollowebescom3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@clubdedesarrollowebescom3009" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/michael-adolfo-huerta-ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="michael-adolfo-huerta-ramirez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/clubdedesarrollowebescom3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clubdedesarrollowebescom3009" height="30" width="40" /></a>
 </p>
 
 
