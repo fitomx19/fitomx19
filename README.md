@@ -1,7 +1,7 @@
 ## Hello, I'm Adolfo and this is my profile. 
 
 - 🔭 I’m currently working on developing mobile and web applications.
-- 🌱 I’m currently learning Data Science in my sixth semester.
+- 🌱 I’m currently learning Data Science in my seventh semester.
 - 💬 Ask me about software development and programming.
 - 📫 You can find me on [YouTube](https://www.youtube.com/@clubdedesarrollowebescom3009) sharing courses and workshops.
 - ⚡ Fun fact: I like to program in the mornings when I wake up, that's when I feel most inspired.
